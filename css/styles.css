@@ -59,7 +59,7 @@ body {
   display: flex;
   gap: 40px;
 }
-.list-nav {
+.page-header a {
   padding: 24px 0 24px;
 }
 .main-logo {
@@ -170,8 +170,6 @@ body {
 }
 .features-list {
   display: flex;
-}
-.features-list {
   flex-basis: calc((100% - 72px) / 4);
   gap: 24px;
 }
